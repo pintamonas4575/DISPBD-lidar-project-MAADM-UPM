@@ -12,10 +12,6 @@ Notebooks que muestran el proceso de clusterizar y etiquetar una nube de puntos 
 - *2_limpiar_clusters.ipynb*: Ejemplo de eliminación de clústers "inválidos" en un frame.
 - *3_video_frames.ipynb*: Proceso entero hasta clusterizar y etiquetar un frame. 
 
-# 📂 Carpeta *"data"*
-
-En ella se encuentran los CSVs de prueba ya manipulados para su utilización directa en los notebooks.
-
 # 📓 Archivo *prueba5_frames.py*
 
 Notebook que analiza cada frame (CSV), clusteriza, etiqueta y guarda una imagen de la situación.
@@ -23,6 +19,10 @@ Notebook que analiza cada frame (CSV), clusteriza, etiqueta y guarda una imagen 
 # 📓 Archivo *gif.py*
 
 Convierte todas las imágenes generadas por el archivo "prueba5_frames" en GIF para poder apreciar el paso del tiempo como un vídeo.
+
+# 📂 Carpeta *"data"*
+
+En ella se encuentran los CSVs de prueba ya manipulados para su utilización directa en los notebooks.
 
 ☣️☣️ 
 **NOTA:** Ajustar los paths para el correcto funcionamiento de los archivos.
