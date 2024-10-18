@@ -20,13 +20,17 @@ Notebook que analiza cada frame (CSV), clusteriza, etiqueta y guarda una imagen 
 
 Convierte todas las imágenes generadas por el archivo "prueba5_frames" en GIF para poder apreciar el paso del tiempo como un vídeo.
 
+☣️☣️ 
+**NOTA:** Ajustar los paths para el correcto funcionamiento de los archivos.
+☣️☣️
+
 # 📂 Carpeta *"data"*
 
 En ella se encuentran los CSVs de prueba ya manipulados para su utilización directa en los notebooks.
 
-☣️☣️ 
-**NOTA:** Ajustar los paths para el correcto funcionamiento de los archivos.
-☣️☣️
+# 📂 Carpeta *"results"*
+
+En ella se muestran los resultados del clustering a lo largo de los frames.
 
 # ⚖️ Licencia 
 
